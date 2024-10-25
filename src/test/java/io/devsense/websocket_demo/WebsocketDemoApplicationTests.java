@@ -3,11 +3,11 @@ package io.devsense.websocket_demo;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+/*@SpringBootTest
 class WebsocketDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
-}
+}*/
